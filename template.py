@@ -14,6 +14,7 @@ list_of_files = [
     ".env",
     "setup.py",
     "research/trials.ipynb",
+    "requirements.txt",
     "app.py"
 ]
 
